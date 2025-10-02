@@ -1,0 +1,27 @@
+{
+  "originUrl": "https://www.toyota.co.nz",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.toyota.co.nz/lets-go-places/sustainability-report/",
+      "source": "MANUAL",
+      "targetPath": "/lets-go-places/sustainability-report",
+      "id": "dc6381c57fbd5a651f4849f89dc381c3ff7d9aa8"
+    }
+  ],
+  "lastCrawled": "MANUAL",
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
