@@ -1,0 +1,115 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.toyota.co.nz/lets-go-places/sustainability-report/",
+          "urlHash": "dc6381c57fbd5a651f4849f89dc381c3ff7d9aa8",
+          "uuid": "dc6381c5-00-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 112
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.toyota.co.nz/lets-go-places/sustainability-report/",
+          "urlHash": "dc6381c57fbd5a651f4849f89dc381c3ff7d9aa8",
+          "uuid": "dc6381c5-04-bd6266f9d8517b11f289323036627f23de113c99",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[1]/div[3]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(29, 29, 27) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://www.toyota.co.nz/lets-go-places/sustainability-report/",
+          "urlHash": "dc6381c57fbd5a651f4849f89dc381c3ff7d9aa8",
+          "uuid": "dc6381c5-00-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 2,
+      "source": "Tabs",
+      "target": "Tabs (tabs2)",
+      "key": "tabs2",
+      "instances": [
+        {
+          "url": "https://www.toyota.co.nz/lets-go-places/sustainability-report/",
+          "urlHash": "dc6381c57fbd5a651f4849f89dc381c3ff7d9aa8",
+          "uuid": "dc6381c5-01-72157fbcd993826a98918d729b63059cfe7bfa8f",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://www.toyota.co.nz/lets-go-places/sustainability-report/",
+          "urlHash": "dc6381c57fbd5a651f4849f89dc381c3ff7d9aa8",
+          "uuid": "dc6381c5-03-39f6f18c051a94002ef345ba170dfd6f744e02e7",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://www.toyota.co.nz/lets-go-places/sustainability-report/",
+          "urlHash": "dc6381c57fbd5a651f4849f89dc381c3ff7d9aa8",
+          "uuid": "dc6381c5-04-bd6266f9d8517b11f289323036627f23de113c99",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.toyota.co.nz/lets-go-places/sustainability-report/",
+      "urlHash": "dc6381c57fbd5a651f4849f89dc381c3ff7d9aa8",
+      "uuid": "dc6381c5-02-d7c996e89f8459a73d01a8fe99be357159f43b43",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(29, 29, 27) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
+    }
+  ]
+}
